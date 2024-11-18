@@ -17,7 +17,7 @@ Este e-book de 15 páginas oferece uma introdução ao desenvolvimento de jogos,
 ## 🚀 Resultados
 O e-book apresenta um guia visual e informativo para iniciantes em desenvolvimento de jogos. Confira o ebook completo no link abaixo:
 
-[📥 Baixar o E-book]([https://link-para-o-seu-ebook-aqui.com](https://drive.google.com/file/d/1o0i9XQyfv9UwmMXYQlr_mVKMxVbDmZ6G/view?usp=sharing))
+[📥 Baixar o E-book](https://drive.google.com/file/d/1o0i9XQyfv9UwmMXYQlr_mVKMxVbDmZ6G/view?usp=sharing)
 
 ## 💭 Reflexão
 Desenvolver este e-book foi uma excelente oportunidade para explorar técnicas de ensino de conceitos de desenvolvimento de jogos. Utilizar ferramentas de IA para criação de conteúdo visual complementou o material de forma dinâmica e interativa.
